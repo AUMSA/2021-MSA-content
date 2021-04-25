@@ -1,0 +1,1 @@
+# FAQs for Azure Fundamentals Bootcamp

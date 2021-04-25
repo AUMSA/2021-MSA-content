@@ -1,0 +1,22 @@
+{
+  "name": "2021-msa-content",
+  "version": "1.0.0",
+  "description": "asdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AUMSA/2021-MSA-content.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AUMSA/2021-MSA-content/issues"
+  },
+  "homepage": "https://github.com/AUMSA/2021-MSA-content#readme",
+  "dependencies": {
+    "docsify-darklight-theme": "^3.1.4"
+  }
+}

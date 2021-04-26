@@ -253,7 +253,7 @@ main.hidden {
 }
 
 .anchor span {
-	color: #fff;
+	color: var(--textColor);
 }
 
 .anchor:hover {

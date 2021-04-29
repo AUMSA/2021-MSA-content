@@ -2,7 +2,9 @@
 
 There are three bootcamps and several supporting sessions within 6 - 8 months.
 
-## Main Bootcamps
+![Workshop Image](https://github.com/AUMSA/2021-MSA-content/blob/main/images/structure.png?raw=true)
+
+## Main Workshops
 
 #### Cloud Computing (29th of April)
 

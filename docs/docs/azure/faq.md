@@ -1,1 +1,3 @@
-# FAQs for Azure Fundamentals Bootcamp
+# FAQs for Azure Fundamentals Workshop
+
+To be updated...

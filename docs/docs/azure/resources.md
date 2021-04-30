@@ -2,7 +2,7 @@
 
 ### 1. Presentation Slides and Recording
 
-Recording of the workshop: [aka.ms/msafundamentals2021](aka.ms/msafundamentals2021)
+Recording of the workshop: [aka.ms/msafundamentals2021](https://aka.ms/msafundamentals2021)
 
 Slide: To be updated...
 
@@ -17,9 +17,9 @@ Slide: To be updated...
 
 __Notes:__
 
-* In order to qualify for the further workshops, you will need to __complete__ the [Microsoft Azure Fundamental Certification](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900).
+* In order to qualify for the further workshops, you will need to __complete__ the Microsoft Azure Fundamental Certification.
 
-* If you complete the Azure Fundamentals Pathway, you will gain extra points.
+* If you complete the [Azure Fundamentals Pathway](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900), you will gain extra points.
 
 
 #### 2.2. Submission

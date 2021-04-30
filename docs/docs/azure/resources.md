@@ -4,7 +4,7 @@
 
 Recording of the workshop: [aka.ms/msafundamentals2021](https://aka.ms/msafundamentals2021)
 
-Slide: To be updated...
+Slide: [MSA Azure Bootcamp](https://1drv.ms/b/s!ApXk4LVEGuObhUTVtKq8TAOmcZwJ?e=tknnDn)
 
 ### 2. Certification & Submission
 

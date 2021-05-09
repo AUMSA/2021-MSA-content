@@ -26,24 +26,24 @@ We covered the security of different network layers in cloud computing with Netw
 ### Recap 1 – Azure services and architectural components
 
 To help you prepare for the exam, we would like to provide a list of questions to supplement your understanding of cloud computing, Azure services, and other important topics that were covered in the #1 Bootcamp. Please note that the purpose of these questions is only to help your understanding, not as exam practice.  
-#### 𝗧𝘆𝗽𝗲𝘀 𝗼𝗳 𝗰𝗹𝗼𝘂𝗱 𝗺𝗼𝗱𝗲𝗹𝘀: 
+#### Types of cloud models:  
 ➤ How many cloud models do we currently have?<br/>
 ➤ What are the differences between those cloud models?<br/>
 ➤ In which use cases will a particular cloud model be used?<br/> 
-#### 𝗧𝘆𝗽𝗲𝘀 𝗼𝗳 𝗰𝗹𝗼𝘂𝗱 𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀:  
+#### Types of cloud services:  
 ➤ How many cloud services do we currently have?<br/>
 ➤ What are the differences between those cloud services?<br/> 
 ➤ In which use cases will a particular cloud model be used?<br/>
 ➤ As a user, what are your responsibilities for each cloud service?<br/>
-#### 𝗥𝗲𝗴𝗶𝗼𝗻 𝗮𝗻𝗱 𝗚𝗲𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲𝘀: 
+#### Region and Geographies: 
 ➤ What is the relationship between “Region” and “Region Pairs”?<br/> 
 ➤ What is the relationship between “Region Pairs” and “Geographies”?<br/>
-#### 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗢𝗽𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗭𝗼𝗻𝗲𝘀:
+#### Availability Options and Availability Zones: 
 ➤ What is the difference between 99.95% and 99.99% availability options?<br/> 
 ➤ What is the difference between “Availability sets” and “Availability zones”?<br/>
 ➤ What is the relationship between “Region” and “Availability zones”?<br/>
 ➤ Why do we need multiple “Availability zones”?<br/>
-#### 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗚𝗿𝗼𝘂𝗽𝘀 𝗮𝗻𝗱 𝗔𝘇𝘂𝗿𝗲 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿:
+#### Resources Groups and Azure Resource Manager: 
 ➤ In which use cases will we use “Resource groups”?<br/> 
 ➤ Why do we need to use “Resource groups”?<br/>
 ➤ How role-based access control (RBAC) is used in “Resource groups”?<br/> 

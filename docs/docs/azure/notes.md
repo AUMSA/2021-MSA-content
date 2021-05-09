@@ -2,7 +2,7 @@
 
 
 
-# 𝗕𝗢𝗢𝗧𝗖𝗔𝗠𝗣 𝟭 – 𝗔𝗖𝗘 𝗬𝗢𝗨𝗥 𝗔𝗭𝗨𝗥𝗘 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦 - 𝗞𝗘𝗬𝗡𝗢𝗧𝗘𝗦
+### 𝗕𝗢𝗢𝗧𝗖𝗔𝗠𝗣 𝟭 – 𝗔𝗖𝗘 𝗬𝗢𝗨𝗥 𝗔𝗭𝗨𝗥𝗘 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦 - 𝗞𝗘𝗬𝗡𝗢𝗧𝗘𝗦
 We would like to say thanks to everyone who attended the workshop last week and participated in the MSA program 2021. 
 To supplement your studies, we have prepared keynotes about the workshop as shown below:  
 
@@ -22,3 +22,29 @@ We elaborated on the groupings of Azure services and products into solutions (e.
 We covered some tools in Microsoft Azure that support the user to manage billing and usage of resources. In addition, we presented tools such as Azure Monitor and Azure Service Health which help users monitor the health of the system. 
 ###### 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗶𝗻 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗔𝘇𝘂𝗿𝗲: 
 We covered the security of different network layers in cloud computing with Network Security Groups and Application Security Groups. Afterward, we introduced fundamental Azure services such as Azure Firewall, Azure DDoS protection, and Azure Advanced Threat Protection that helps the user prevent their services from being insecure threats. Finally, we provided the description of each fundamental Azure identity service such as Azure Active Directory (AD), Azure Multi-Factor Authentication, Azure Security Center, Azure Key Vault, or Azure Information Protection that further supports authentication and authorization. 
+
+### 𝗕𝗼𝗼𝘁𝗰𝗮𝗺𝗽 #𝟭 – 𝗥𝗲𝗰𝗮𝗽 𝟭 – 𝗔𝘇𝘂𝗿𝗲 𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗮𝗻𝗱 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗮𝗹 𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀
+
+To help you prepare for the exam, we would like to provide a list of questions to supplement your understanding of cloud computing, Azure services, and other important topics that were covered in the #1 Bootcamp. Please note that the purpose of these questions is only to help your understanding, not as exam practice.  
+###### 𝗧𝘆𝗽𝗲𝘀 𝗼𝗳 𝗰𝗹𝗼𝘂𝗱 𝗺𝗼𝗱𝗲𝗹𝘀: 
+➤ How many cloud models do we currently have? 
+➤ What are the differences between those cloud models? 
+➤ In which use cases will a particular cloud model be used? 
+###### 𝗧𝘆𝗽𝗲𝘀 𝗼𝗳 𝗰𝗹𝗼𝘂𝗱 𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀:  
+➤ How many cloud services do we currently have? 
+➤ What are the differences between those cloud services? 
+➤ In which use cases will a particular cloud model be used? 
+➤ As a user, what are your responsibilities for each cloud service? 
+###### 𝗥𝗲𝗴𝗶𝗼𝗻 𝗮𝗻𝗱 𝗚𝗲𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲𝘀: 
+➤ What is the relationship between “Region” and “Region Pairs”? 
+➤ What is the relationship between “Region Pairs” and “Geographies”? 
+###### 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗢𝗽𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗭𝗼𝗻𝗲𝘀:
+➤ What is the difference between 99.95% and 99.99% availability options? 
+➤ What is the difference between “Availability sets” and “Availability zones”? 
+➤ What is the relationship between “Region” and “Availability zones”? 
+➤ Why do we need multiple “Availability zones”? 
+###### 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗚𝗿𝗼𝘂𝗽𝘀 𝗮𝗻𝗱 𝗔𝘇𝘂𝗿𝗲 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿:
+➤ In which use cases will we use “Resource groups”? 
+➤ Why do we need to use “Resource groups”? 
+➤ How role-based access control (RBAC) is used in “Resource groups”? 
+➤ In which use cases will we use “Azure Resource Manager”? 

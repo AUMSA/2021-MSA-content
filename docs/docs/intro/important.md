@@ -21,4 +21,4 @@
 
 * If you have any questions, please feel free to ask on our [Facebook Group](https://www.facebook.com/groups/235821840767124).
 
-![Footer_Banner](https://github.com/AUMSA/2021-MSA-content/blob/main/images/MicrosoftBannerFooter.png)
+![Footer_Banner](https://github.com/AUMSA/2021-MSA-content/blob/main/images/MicrosoftBannerFooter.png?raw=true)

@@ -11,3 +11,5 @@ The MSA 2021 program will host a series of bootcamps and complementing workshops
 ### How do participants interact with the program?
 
 Throughout the program, the participants will have access to exclusive tools, resources and networking events with Microsoft. We will also provide additional support throughout the whole program in forms of online discussion through social media and emails.
+
+![Footer_Banner](https://github.com/AUMSA/2021-MSA-content/blob/main/images/MicrosoftBannerFooter.png)

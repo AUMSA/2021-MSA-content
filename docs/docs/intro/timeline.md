@@ -26,4 +26,4 @@ In this workshop, you will learn more about using Azure IoT Hub, Azure Stream An
 
 3. __Presentation and Soft Skills:__ Pitching your ideas to your team or the community is an essential skill for your future development. We will provide useful tips that support to level up your communication skills.
 
-![Footer_Banner](https://github.com/AUMSA/2021-MSA-content/blob/main/images/MicrosoftBannerFooter.png)
+![Footer_Banner](https://github.com/AUMSA/2021-MSA-content/blob/main/images/MicrosoftBannerFooter.png?raw=true)

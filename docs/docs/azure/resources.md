@@ -36,4 +36,4 @@ __Notes:__
 
 * You can find more information about different Microsoft certifications at [Become Microsoft Certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI).
 
-![Footer_Banner](https://github.com/AUMSA/2021-MSA-content/blob/main/images/MicrosoftBannerFooter.png)
+![Footer_Banner](https://github.com/AUMSA/2021-MSA-content/blob/main/images/MicrosoftBannerFooter.png?raw=true)

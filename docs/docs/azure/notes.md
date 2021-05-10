@@ -91,4 +91,4 @@ We would like to provide some questions that will help you better understand Azu
 ➤ Which Azure service is used for checking service health? <br/>
 ➤ How can we manage billing for Azure services effectively <br/>
 
-![Footer_Banner](https://github.com/AUMSA/2021-MSA-content/blob/main/images/MicrosoftBannerFooter.png)
+![Footer_Banner](https://github.com/AUMSA/2021-MSA-content/blob/main/images/MicrosoftBannerFooter.png?raw=true)

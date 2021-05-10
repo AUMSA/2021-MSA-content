@@ -1,3 +1,5 @@
+![Workshop_Banner](https://github.com/AUMSA/2021-MSA-content/blob/main/images/Screenshot%202021-05-10%20110859.png)
+
 # Introduction to Microsoft Student Accelerator 2021
 
 The Microsoft Student Accelerator (MSA) programme works with students to provide industry relevant training and put those skills in practice to develop innovative solutions to the challenging problems in the world today.

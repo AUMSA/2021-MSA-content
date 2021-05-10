@@ -25,3 +25,5 @@ In this workshop, you will learn more about using Azure IoT Hub, Azure Stream An
 2. __DevOps and Project Workflow:__ DevOps is the key practice behind any AI models, IoT infrastructures, and teamwork. We will provide guidance on how to set up Jupyter Notebook and Docker for your projects. 
 
 3. __Presentation and Soft Skills:__ Pitching your ideas to your team or the community is an essential skill for your future development. We will provide useful tips that support to level up your communication skills.
+
+![Footer_Banner](https://github.com/AUMSA/2021-MSA-content/blob/main/images/MicrosoftBannerFooter.png)

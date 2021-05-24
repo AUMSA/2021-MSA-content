@@ -1,4 +1,4 @@
-# Resources
+# Github Resources
 
 ### Presentation Slides and Recording
 

@@ -1,6 +1,6 @@
 # Resources
 
-### 1. Presentation Slides and Recording
+### Presentation Slides and Recording
 
 Recording of the workshop: [aka.ms/msagithub2021](https://aka.ms/msagithub2021)
 

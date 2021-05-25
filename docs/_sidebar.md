@@ -14,6 +14,7 @@
   	- [Presentation Slides and Recording](/docs/azure/resources?id=_1-presentation-slides-and-recording)
   	- [Certification & Submission](/docs/azure/resources?id=_2-certification-amp-submission)
   	- [Useful resources](/docs/azure/resources?id=_3-useful-resources)
+  	- [Supplementary resources for Github workshop](/docs/azure/github workshop?id=_4-supplementary-resources-for-Github)
   - [FAQs](/docs/azure/faq.md)
 
 - <span class='sidebar_emoji'>🤖</span> Artificial Intelligence with Azure

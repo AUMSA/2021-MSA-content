@@ -19,7 +19,12 @@
 
 - <span class='sidebar_emoji'>🤖</span> Artificial Intelligence with Azure
 
-  - Coming soon
+  - [Keynotes & Recap](/docs/ai/notes.md)    
+  - [Resources](/docs/ai/resources.md)
+    - [Presentation Slides and Recording](/docs/ai/resources?id=_1-presentation-slides-and-recording)
+    - [Marking Rubric & Submission](/docs/ai/resources?id=_2-marking-rubric-amp-submission)
+    - [Useful Resources](/docs/ai/resources?id=_3-useful-resources)
+  - [FAQs](/docs/ai/faq.md)
 
 - <span class='sidebar_emoji'>🕸️</span> Internet of Things with Azure
   

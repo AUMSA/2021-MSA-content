@@ -4,7 +4,7 @@
 
 __Recording of the workshop:__ [https://aka.ms/msaai2021](https://aka.ms/msaai2021)
 
-__Slides:__ Coming soon
+__Slides:__ [MSA AI Bootcamp](https://1drv.ms/b/s!ApXk4LVEGuObhU8jHG7tagW83dOk?e=LB68la)
 
 ### 2. Marking Rubric & Submission
 

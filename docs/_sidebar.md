@@ -22,8 +22,9 @@
   - [Keynotes & Recap](/docs/ai/notes.md)    
   - [Resources](/docs/ai/resources.md)
     - [Presentation Slides and Recording](/docs/ai/resources?id=_1-presentation-slides-and-recording)
-    - [Marking Rubric & Submission](/docs/ai/resources?id=_2-marking-rubric-amp-submission)
-    - [Useful Resources](/docs/ai/resources?id=_3-useful-resources)
+    - [Learning Paths](/docs/ai/resources?id=_2-learning-paths)
+    - [Marking Rubric & Submission](/docs/ai/resources?id=_3-marking-rubric-amp-submission)
+    - [Useful Resources](/docs/ai/resources?id=_4-useful-resources)
   - [FAQs](/docs/ai/faq.md)
 
 - <span class='sidebar_emoji'>🕸️</span> Internet of Things with Azure

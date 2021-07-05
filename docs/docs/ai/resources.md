@@ -6,7 +6,23 @@ __Recording of the workshop:__ [https://aka.ms/msaai2021](https://aka.ms/msaai20
 
 __Slides:__ [MSA AI Bootcamp](https://1drv.ms/b/s!ApXk4LVEGuObhU8jHG7tagW83dOk?e=LB68la)
 
-### 2. Marking Rubric & Submission
+### 2. Learning Paths
+
+__General Learning Path:__
+* [Use visual tools to create machine learning models with Azure Machine Learning](https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/)
+* [Scale AI in your organisation](https://docs.microsoft.com/en-us/learn/paths/scale-ai-organizations/)
+
+__Low/No Code Approach (Option 1):__
+* [Transform your business applications with fusion development](https://docs.microsoft.com/en-us/learn/paths/transform-business-applications-with-fusion-development/)
+* [Create a canvas app in Power Apps](https://docs.microsoft.com/en-us/learn/paths/create-powerapps/)
+
+__Coding Approach (Option 2):__
+* [Introduction to machine learning with Python and Azure Notebooks](https://docs.microsoft.com/en-gb/learn/paths/intro-to-ml-with-python/)
+* [Build real world applications with Python](https://docs.microsoft.com/en-us/learn/paths/python-language/)
+
+__Notes:__ To complete this bootcamp, you __must__ to complete the general learning path and one of the options (i.e., low/no code approach or coding approach) above.
+
+### 3. Marking Rubric & Submission
 
 __Marking Rubric:__
 
@@ -18,15 +34,38 @@ __Marking Rubric:__
 |Result and Reflection|20|➤ A documentation for reporting results regarding to the entire project has been provided. <br /> ➤ The provided documentation is readable by either non-technical or technical people. <br /> ➤ __At least 3 challenges__ have been provided in the reflection.
 |Completion of MS Learn|15| ➤ Completed one chosen learning path from two provided ones. <br /> ➤ A short summary for the learning journey has been provided.
 
+__Submission guidelines:__
+
+1. Complete your selected learning paths
+2. Create GitHub repository of your project
+3. Push code with documentation to the repository
+4. Add more documents to demonstrates your projects and learning journey
+5. Fill the information in the provided submission via email
+6. Confirm and submit all the information
+
 __Notes:__
 
 * The project submission is due by __07 August 2021__.
 
 * Details of project description and submission will be sent out via email soon.
 
-### 3. Useful resources
+### 4. Useful resources
 
-#### 3.1. Reading Resources and Learning Modules
+#### 4.1. Datasets
+- [Kaggle dataset](https://www.kaggle.com/datasets)
+- [Microsoft Research datasets](https://www.microsoft.com/en-us/research/tools/?facet%5Btax%5D%5Bmsr-product-type%5D%5B%5D=243083)
+- [Microsoft open datasets](https://azure.microsoft.com/en-au/services/open-datasets/)
+- [UCI Machine Learning datasets](http://archive.ics.uci.edu/ml/datasets.php)
+
+#### 4.2. Ideas
+- [Ideas AI](https://ideasai.net/)
+
+#### 4.3. Code samples
+- [Kaggle code](https://www.kaggle.com/code)
+- [Microsoft Research code samples](https://www.microsoft.com/en-us/research/tools/?facet%5Btax%5D%5Bmsr-product-type%5D%5B%5D=243092)
+
+
+#### 4.4. Reading Resources and Learning Modules
 __Fundamental AI concepts:__
 
 - [Introduction to AI technology for business leaders](https://docs.microsoft.com/en-us/learn/paths/ai-technology-for-business-leaders/)
@@ -45,6 +84,7 @@ __Building AI solutions:__
 - [Classify space rocks by using Python and AI](https://docs.microsoft.com/en-us/learn/paths/classify-space-rocks-artificial-intelligence-nasa/)
 - [Create a web app that uses data to make decision on the basketball court](https://docs.microsoft.com/en-us/learn/modules/optimize-basketball-player-rest-breaks/)
 - [Build and Deploy a Python App Pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops)
+- [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
 
 __Implementing advanced AI models:__
 
@@ -55,7 +95,7 @@ __Responsible AI:__
 - [Understand responsible AI](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/7-understand-responsible-ai)
 - [Guidelines for Human-AI interaction](https://aidemos.microsoft.com/guidelines-for-human-ai-interaction/demo)
 
-#### 3.2. Video materials
+#### 4.5. Video materials
 
 __General resources:__
 

@@ -6,6 +6,8 @@ __Recording of the workshop:__ [https://aka.ms/msaai2021](https://aka.ms/msaai20
 
 __Slides:__ [MSA AI Bootcamp](https://1drv.ms/b/s!ApXk4LVEGuObhU8jHG7tagW83dOk?e=LB68la)
 
+__Source code:__ [MSA AI GitHub](https://github.com/AUMSA/MSA_AIWorkshop_2021)
+
 ### 2. Learning Paths
 
 __General Learning Path:__
@@ -47,7 +49,11 @@ __Notes:__
 
 * The project submission is due by __07 August 2021__.
 
-* Details of project description and submission will be sent out via email soon.
+* Details of project description can be found at this [link](https://1drv.ms/b/s!ApXk4LVEGuObhVD2lm12pijJ1iQu?e=ccWIWo)
+
+* To complete this bootcamp which includes both learning paths and project, we will need to spend __at least 8 hours per week__. 
+
+* The submission form will be sent out via email soon.
 
 ### 4. Useful resources
 

@@ -53,7 +53,7 @@ __Notes:__
 
 * To complete this bootcamp which includes both learning paths and project, we will need to spend __at least 8 hours per week__. 
 
-* The submission form will be sent out via email soon.
+* After completing your project and learning paths, you can submit them at [this form](https://forms.office.com/r/980fnZAZun).
 
 ### 4. Useful resources
 

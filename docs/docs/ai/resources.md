@@ -31,10 +31,10 @@ __Marking Rubric:__
 |Criteria|Point|Marking Guideline|
 |--------|-----|-----------------|
 |Idea|15| ➤ A clear description about the problem statement has been provided <br /> ➤ A clear explanation of why AI can be applied to solve the proposed problem has been provided. <br /> ➤ The proposed problem has a reasonable complexity in terms of building a solution. <br /> ➤ The idea is innovative and novel.
-|Approach|25| ➤ The architecture met the requirements for the problem statement. <br /> ➤ Machine learning life cycle has been considered. <br /> ➤ __At least 2__ out of 6 principles for AI development and use have been considered. <br /> ➤ A clear description with clarifications for each Microsoft Azure services in the architecture has been provided. <br /> ➤ The flow between three phases such as data phase, model phase and deployment phase has been described. <br /> ➤ Future scalability and extensibility of the approach have been considered.
-|Implementation|25|➤ All functionalities in the architecture have been successfully implemented. <br /> ➤ __At least one principle__ for AI development and use has been achieved. <br /> ➤ The implementation has a reasonable complexity. <br /> ➤ The developed source code is readable by other developers. <br /> ➤ The additional data generation and processing steps have been implemented to generate more appropriate data for solving the proposed problem.
-|Result and Reflection|20|➤ A documentation for reporting results regarding to the entire project has been provided. <br /> ➤ The provided documentation is readable by either non-technical or technical people. <br /> ➤ __At least 3 challenges__ have been provided in the reflection.
-|Completion of MS Learn|15| ➤ Completed one chosen learning path from two provided ones. <br /> ➤ A short summary for the learning journey has been provided.
+|Approach|15| ➤ The architecture met the requirements for the problem statement. <br /> ➤ Machine learning life cycle has been considered. <br /> ➤ The flow between three phases such as data phase, model phase and deployment phase has been described. <br /> ➤ Future scalability and extensibility of the approach have been considered.
+|Implementation|30|➤ All functionalities in the architecture have been successfully implemented. <br /> ➤ The implementation has a reasonable complexity. <br /> ➤ The developed source code is readable by other developers.
+|Result and Reflection|15|➤ A documentation for reporting results regarding to the entire project has been provided. <br /> ➤ The provided documentation is readable by either non-technical or technical people.
+|Completion of MS Learn|25| ➤ Completed one chosen learning path from two provided ones. <br /> ➤ A short summary for the learning journey has been provided.
 
 __Submission guidelines:__
 

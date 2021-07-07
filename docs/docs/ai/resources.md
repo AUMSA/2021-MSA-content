@@ -49,9 +49,9 @@ __Notes:__
 
 * The project submission is due by __07 August 2021__.
 
-* Details of project description can be found at this [link](https://1drv.ms/b/s!ApXk4LVEGuObhVD2lm12pijJ1iQu?e=ccWIWo)
+* Details of project description can be found at this [link](https://1drv.ms/b/s!ApXk4LVEGuObhVGFwzloeHpFtxrU?e=WApjL8)
 
-* To complete this bootcamp which includes both learning paths and project, we will need to spend __at least 8 hours per week__. 
+* It is advisable that you needto spend __at least 15 – 20 hours__ to complete the project.
 
 * After completing your project and learning paths, you can submit them at [this form](https://forms.office.com/r/980fnZAZun).
 

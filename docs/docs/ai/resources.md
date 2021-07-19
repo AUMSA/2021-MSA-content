@@ -4,6 +4,8 @@
 
 __Recording of the workshop:__ [https://aka.ms/msaai2021](https://aka.ms/msaai2021)
 
+__Recording of the "Explore Azure ML Studio" workshop:__ [https://aka.ms/msaml2021](https://aka.ms/msaml2021)
+
 __Slides:__ [MSA AI Bootcamp](https://1drv.ms/b/s!ApXk4LVEGuObhU8jHG7tagW83dOk?e=LB68la)
 
 __Source code:__ [MSA AI GitHub](https://github.com/AUMSA/MSA_AIWorkshop_2021)

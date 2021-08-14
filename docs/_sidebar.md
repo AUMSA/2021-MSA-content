@@ -29,4 +29,8 @@
 
 - <span class='sidebar_emoji'>🕸️</span> Internet of Things with Azure
   
-  - Coming soon
+  - [Resources](/docs/iot/resources.md)
+    - [Presentation Slides and Recording](/docs/iot/resources?id=_1-presentation-slides-and-recording)
+    - [Learning Paths](/docs/iot/resources?id=_2-learning-paths)
+    - [Project checklist](/docs/iot/resources?id=_3-project-checklist)
+    - [Useful Resources](/docs/iot/resources?id=_4-useful-resources)

@@ -2,11 +2,11 @@
 
 ### 1. Presentation Slides and Recording
 
-Coming soon!
+__Recording of the workshop:__ [Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQ3MjhjNWYtZTljOC00YjM3LTk1YTktMjg0MmRkNzczMDg5%40thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%22c68449a9-8e0d-4fb5-ae7b-4ffd20df1ec4%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 
-<!-- __Recording of the workshop:__ -->
-
-<!-- __Slides:__ [MSA IoT Bootcamp](https://stdntpartners-my.sharepoint.com/:w:/g/personal/chhaikheang_sok_studentambassadors_com/EVR1AXV45E9AqR4SUgHDdxIBEOUsZr42PAUzZJghIDC88Q?e=Lw5lIL) -->
+__Slides:__
+* [IoT Concepts + IoT Central](https://1drv.ms/p/s!At4GhV_Qo7Rlgt4DufS7RzqTV_0Etw?e=PjDWzm)
+* [IoT Central to Power BI](https://stdntpartners-my.sharepoint.com/personal/leopold_zhou_studentambassadors_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleopold%5Fzhou%5Fstudentambassadors%5Fcom%2FDocuments%2FWorkshop%2F2021%2DMSA%2DPowerBI%2Fpresentation%2Epdf&parent=%2Fpersonal%2Fleopold%5Fzhou%5Fstudentambassadors%5Fcom%2FDocuments%2FWorkshop%2F2021%2DMSA%2DPowerBI&originalPath=aHR0cHM6Ly9zdGRudHBhcnRuZXJzLW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL2xlb3BvbGRfemhvdV9zdHVkZW50YW1iYXNzYWRvcnNfY29tL0VWazk4cjlhRlNCTGh3eXMtZ3VSR2dnQllCZTBmcXNDZUJlakF5czZqclNTTUE%5FcnRpbWU9ZmhxV1dNRmYyVWc)
 
 ### 2. Learning Paths
 
@@ -22,8 +22,7 @@ __Notes:__ To complete this bootcamp, you __must__ complete one of the options a
 
 __Marking Rubric:__
 
-[The project description](https://1drv.ms/w/s!At4GhV_Qo7Rlgt4BdYqCye7QzuP5rQ?e=YCbKMQ) has additional detail, including the marking rubric
-that will be used.
+[The project description](https://1drv.ms/w/s!At4GhV_Qo7Rlgt4BdYqCye7QzuP5rQ?e=0sRE93) has additional detail, including the marking rubric that will be used.
 
 __Project checklist:__
 

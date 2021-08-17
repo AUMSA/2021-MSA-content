@@ -6,7 +6,7 @@ __Recording of the workshop:__ [Teams link](https://teams.microsoft.com/l/meetup
 
 __Slides:__
 * [IoT Concepts + IoT Central](https://1drv.ms/p/s!At4GhV_Qo7Rlgt4DufS7RzqTV_0Etw?e=PjDWzm)
-* [IoT Central to Power BI](https://stdntpartners-my.sharepoint.com/personal/leopold_zhou_studentambassadors_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleopold%5Fzhou%5Fstudentambassadors%5Fcom%2FDocuments%2FWorkshop%2F2021%2DMSA%2DPowerBI%2Fpresentation%2Epdf&parent=%2Fpersonal%2Fleopold%5Fzhou%5Fstudentambassadors%5Fcom%2FDocuments%2FWorkshop%2F2021%2DMSA%2DPowerBI&originalPath=aHR0cHM6Ly9zdGRudHBhcnRuZXJzLW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL2xlb3BvbGRfemhvdV9zdHVkZW50YW1iYXNzYWRvcnNfY29tL0VWazk4cjlhRlNCTGh3eXMtZ3VSR2dnQllCZTBmcXNDZUJlakF5czZqclNTTUE%5FcnRpbWU9ZmhxV1dNRmYyVWc)
+* [IoT Central to Power BI](https://1drv.ms/b/s!At4GhV_Qo7Rlgt4l82EMHpOfhYlQIw)
 
 ### 2. Learning Paths
 

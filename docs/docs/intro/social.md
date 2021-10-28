@@ -24,6 +24,6 @@ __Please note:__ This is a public event, and anybody can join.
 
 __During the event:__ Please use this link to join the Teams Event 5 minutes before start time (5pm AEST): [Click here to join the meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzI5MTI2NTktODM0OC00NWFhLWExNjYtNzc1NTcyYjExOWNk%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22ed2578d5-4f0a-4181-9d9c-0f44ca09c8a3%22%7d).
 
-__After the event:__ A recording of the workshop will be made available shortly after the event and will be able to be accessed from our website AFTER the workshop: [aka.ms/msazone2021](aka.ms/msazone2021).
+__After the event:__ A recording of the workshop will be made available shortly after the event and will be able to be accessed from our website AFTER the workshop: [https://1drv.ms/v/s!ApXk4LVEGuObhW5jHpJ1suDv1XOt?e=iaR9L7](https://1drv.ms/v/s!ApXk4LVEGuObhW5jHpJ1suDv1XOt?e=iaR9L7).
 
 You will also be able find the latest information about this event on our Facebook's event page: [https://fb.me/e/WzN7ni2L](https://fb.me/e/WzN7ni2L).

@@ -6,7 +6,8 @@
   - [Important information](/docs/intro/important.md)
   	- [Points & Prizes](/docs/intro/important?id=_1-points-amp-prizes)
   	- [Support and Resources](/docs/intro/important?id=_2-support-and-resources)
-  - [Social Events](/docs/intro/social.md)
+  - [Soft Skills Workshops](/docs/intro/social.md)
+    - [How to get most out of LinkedIn](/docs/intro/social?id=how-to-get-most-out-of-linkedin)
   - [Closing Ceremony](/docs/intro/close.md)
 
 - <span class='sidebar_emoji'>⚙️</span> Azure Fundamentals

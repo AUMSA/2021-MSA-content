@@ -7,6 +7,7 @@
   	- [Points & Prizes](/docs/intro/important?id=_1-points-amp-prizes)
   	- [Support and Resources](/docs/intro/important?id=_2-support-and-resources)
   - [Social Events](/docs/intro/social.md)
+  - [Closing Ceremony](/docs/intro/close.md)
 
 - <span class='sidebar_emoji'>⚙️</span> Azure Fundamentals
 
